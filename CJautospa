@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CJ Car Detailing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CJ Car Detailing</h1>
+        <p>Your Car, Showroom Ready</p>
+        <a href="tel:5551234567" class="call-button">📞 Call or Text: (555) 123-4567</a>
+    </header>
+
+    <section class="intro">
+        <h2>Precision. Shine. Perfection.</h2>
+        <p>Professional mobile detailing that brings your car back to life.</p>
+        <a href="#pricing" class="cta-button">View Pricing</a>
+    </section>
+
+    <section id="pricing">
+        <h2>Pricing Packages</h2>
+        <table>
+            <tr>
+                <th>Package</th>
+                <th>Small/Compact Car</th>
+                <th>SUV/Truck/Van</th>
+            </tr>
+            <tr>
+                <td>Interior-Only</td>
+                <td>$100</td>
+                <td>$150</td>
+            </tr>
+            <tr>
+                <td>Full Detailing</td>
+                <td>$200</td>
+                <td>$250</td>
+            </tr>
+        </table>
+        <h3>Add-Ons:</h3>
+        <ul>
+            <li>Headlight Restoration – $30</li>
+            <li>Ceramic Coating – $200+</li>
+            <li>Pet Hair Removal – $25</li>
+            <li>Engine Bay Cleaning – $50</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Book Your Appointment</h2>
+        <p>📞 Call or Text: <a href="tel:5551234567">(555) 123-4567</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 CJ Car Detailing. All rights reserved.</p>
+    </footer>
+</body>
+</html>
